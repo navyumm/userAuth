@@ -3,9 +3,9 @@ import fs from "fs";
 
 // Configuration
 cloudinary.config({
-  cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
-  api_key: process.env.CLOUDINARY_API_KEY,
-  api_secret: process.env.CLOUDINARY_API_SECRET
+  cloud_name: "navyum",
+  api_key: "475888486772937",
+  api_secret: "JFW5S68zfqAYJ-uS8-uIRNquzjQ"
 });
 
 
